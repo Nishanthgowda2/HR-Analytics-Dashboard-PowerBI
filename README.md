@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard-PowerBI
-# HR Analytics Dashboard (Power BI)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/04f57a76-faee-4a5f-bf12-8afe02012d0f" />
+
 
 ## 📌 Project Overview
 Employee attrition is a critical challenge for HR departments.  
